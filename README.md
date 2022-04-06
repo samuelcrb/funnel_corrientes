@@ -1,2 +1,2 @@
 # funnel_corrientes
-Funnel para la biografía de Corrientes.
+Funnel para la biografía del insta de Corrientes.
